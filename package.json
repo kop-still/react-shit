@@ -1,16 +1,27 @@
 {
-  "name": "react-shit",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "react-scripts": "1.0.10"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  }
+    "name": "react-shit",
+    "version": "0.0.1",
+    "dependencies": {
+        "react": "^16.3.2",
+        "react-dom": "^16.3.2"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "description": "Fucking Frontend Engineer",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kopstill/react-shit.git"
+    },
+    "keywords": ["react", "holy", "shit"],
+    "author": "kopever",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kopstill/react-shit/issues"
+    },
+    "homepage": "https://github.com/kopstill/react-shit#readme"
 }
